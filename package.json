@@ -1,6 +1,6 @@
 {
   "name": "otp-validator-totp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A zero-dependency, production-ready TOTP (Time-Based One-Time Password) generator and validator using Node.js native crypto.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
