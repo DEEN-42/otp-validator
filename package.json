@@ -12,6 +12,10 @@
     "test": "jest --coverage",
     "prepublishOnly": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEEN-42/otp-validator.git"
+  },
   "keywords": [
     "otp",
     "totp",
